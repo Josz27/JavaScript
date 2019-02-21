@@ -18,4 +18,4 @@ let greetMe = ()=>{
 greetMe();
 
 logGreeting(greetMe);
-logGreeting(()=>{console.log("Los AD2000X Son sorprendentes , Dayo-nee?");})
+logGreeting(()=>{console.log("Hola José Luis =) ;) ");})
